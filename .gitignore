@@ -1,0 +1,6 @@
+*.o
+ui_*
+moc_*
+*~
+Makefile
+.idea
